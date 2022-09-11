@@ -10,7 +10,7 @@ int main(void)
 {
 	char chars;
 	int integer;
-	unsigned int long_integers;
+	long int long_integers;
 	float floating_point;
 	long long int integers;
 
